@@ -1,0 +1,4 @@
+Real time stuff
+Event driven
+I/o model lightweight
+efficent
