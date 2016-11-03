@@ -1,0 +1,11 @@
+{
+  "name": "richa52",
+  "version": "1.0.0",
+  "description": "This is my First create Pkg Json file.",
+  "main": "Main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Richa",
+  "license": "ISC"
+}
