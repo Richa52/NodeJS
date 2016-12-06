@@ -1,0 +1,9 @@
+https://code.ciphertrick.com/2016/01/18/salt-hash-passwords-using-nodejs-crypto/
+http://developer.leankit.com/painless-sql-server-with-nodejs-and-seriate/
+
+http://www.tri-s.be/blog/2015/10/25/connect-to-sqlserver-from-nodejs.aspx
+
+
+http://lollyrock.com/articles/nodejs-encryption/
+
+http://blog.mailgun.com/how-to-send-transactional-emails-in-a-nodejs-app-using-the-mailgun-api/
